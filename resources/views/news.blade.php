@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>News</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -81,13 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    News
                 </div>
 
                 <div class="links">
-                    <input type="button" value="Home" onclick="location.href='/home'">
-                    <input type="button" value="News" onclick="location.href='/news'">
                     <input type="button" value="About" onclick="location.href='/about'">
+                    <input type="button" value="Home" onclick="location.href='/home'" >
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
